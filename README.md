@@ -1,0 +1,1 @@
+# Finite-Distributed-Model-in-R
